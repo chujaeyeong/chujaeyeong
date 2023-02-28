@@ -1,3 +1,5 @@
+<img src = 'imgaes/IMG_8276.jpg' width=300, height=300></img>
+
 [![*'s githubstats](https://github-readme-stats.vercel.app/api?username=chujaeyeong&show_icons=true&theme=radical)](https://github.com/chujaeyeong)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chujaeyeong&layout=compact)](https://github.com/chujaeyeong/github-readme-stats)
