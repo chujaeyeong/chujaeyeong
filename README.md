@@ -1,28 +1,21 @@
-<img src = 'images/IMG_8276.jpg' width=300, height=300></img>
+## Hi there 👋 Welcome to Jae Yeong's Github ! 😘
+
+##### Hello! I am studying web development. I want to be a backend developer who makes a great web page. Welcome to my GitHub!
+##### 안녕하세요! 저는 백엔드 개발자를 꿈꾸는 코린이 입니다. Java, SQL 공부를 하고 있습니다. 여기서 저의 흔적을 찾아보세요!  
+
+---
 
 [![*'s githubstats](https://github-readme-stats.vercel.app/api?username=chujaeyeong&show_icons=true&theme=radical)](https://github.com/chujaeyeong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chujaeyeong&layout=compact)](https://github.com/chujaeyeong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chujaeyeong&layout=compact&theme=radical)](https://github.com/chujaeyeong/github-readme-stats)
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+
 ---
-**두껍게** <br>
-*이텔릭* <br>
-~~스트라이크~~ <br>
 
-> 인용구 <br>
-* 1번
-* 2번
+#### 👀 Jae Yeong's Timeline
+* 2015 ~ 2020 - 역사문화콘텐츠학 학사 취득
+* 2020 ~ 2022 - 디지털 콘텐츠 마케터 근무 (국회방송, 한국동서발전, 롯데월드아쿠아리움, 로지텍 홍보대행 경력)
+* 2023 - 멀티캠퍼스 백엔드개발 취업캠프 9회차 수강 중 
 
-```
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-}
-```
+
 
