@@ -5,9 +5,9 @@
 
 ---
 
-[![*'s githubstats](https://github-readme-stats.vercel.app/api?username=chujaeyeong&show_icons=true&theme=tokyonight)](https://github.com/chujaeyeong)
+[![*'s githubstats](https://github-readme-stats.vercel.app/api?username=chujaeyeong&show_icons=true&theme=dracula)](https://github.com/chujaeyeong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chujaeyeong&layout=compact&theme=radical)](https://github.com/chujaeyeong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chujaeyeong&layout=compact&theme=dracula)](https://github.com/chujaeyeong/github-readme-stats)
 
 
 ---
