@@ -1,7 +1,7 @@
-## Hi there 👋 Welcome to Jae Yeong's Github ! 😘
+# Hi there 👋 Welcome to Jae Yeong's Github ! 😘
 
-##### Hello! I am studying web development. I want to be a backend developer who makes a great web page. Welcome to my GitHub!
-##### 안녕하세요! 저는 백엔드 개발자를 꿈꾸는 코린이 입니다. Java, SQL 공부를 하고 있습니다. 제 깃허브에서 저의 흔적을 찾아보세요!  
+#### Hello! I am studying web development. I want to be a backend developer who makes a great web page. Welcome to my GitHub!
+#### 안녕하세요! 저는 백엔드 개발자를 꿈꾸는 코린이 입니다. Java, SQL 공부를 하고 있습니다. 제 깃허브에서 저의 흔적을 찾아보세요!  
 
 ---
 
