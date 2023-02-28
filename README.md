@@ -1,4 +1,4 @@
-<img src = 'imgaes/IMG_8276.jpg' width=300, height=300></img>
+<img src = 'images/IMG_8276.jpg' width=300, height=300></img>
 
 [![*'s githubstats](https://github-readme-stats.vercel.app/api?username=chujaeyeong&show_icons=true&theme=radical)](https://github.com/chujaeyeong)
 
