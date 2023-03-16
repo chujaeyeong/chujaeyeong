@@ -1,7 +1,7 @@
 # Hi there 👋 Welcome to Jae Yeong's Github ! 😘
 
 #### Hello! I'm studying web development. I want to be a backend developer who makes a great web page !
-#### 안녕하세요! 저는 백엔드 개발자를 꿈꾸는 코린이 입니다. Java와 SQL 공부를 하고 있습니다. 
+#### 안녕하세요! 저는 백엔드 개발자를 꿈꾸는 코린이 Chu jae yeong 입니다. Java와 SQL 공부를 하고 있습니다. 
 
 ---
 
