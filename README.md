@@ -3,9 +3,7 @@
 # Hi there 👋 Welcome to Jae Yeong's Github ! 😘
 
 
-<!-- <img src =https://github.com/chujaeyeong/chujaeyeong/assets/123634960/506a885b-efc5-454f-a8c3-0cd67a375ea8 width="610" height="400" /> -->
-![f378362575efa7a56c7a68b4d3704953](https://github.com/chujaeyeong/chujaeyeong/assets/123634960/96f81577-5dfd-4278-ad1e-6e807d6690ae)
-
+<img src =https://github.com/chujaeyeong/chujaeyeong/assets/123634960/506a885b-efc5-454f-a8c3-0cd67a375ea8 width="610" height="400" />
 
 
 ## ✨ Back-end Tech Stack ✨
