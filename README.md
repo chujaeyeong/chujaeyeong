@@ -8,7 +8,7 @@
 
 #
 
-#### 🔍 Timeline 
+### 🔍 Timeline 
 
    * 선문대학교 역사문화콘텐츠학과 졸업 (2015 ~ 2020, 문학사)
    * 충남 아산시 소재 초중등 역사 교육 연구소 인턴 (2019, 초중등 역사 교육 기획 / 역사 학습 자료 기획 및 제작)
@@ -17,7 +17,7 @@
 
 #
 
-#### 🛠️ Tech Stack 🛠️ 
+### 🛠️ Tech Stack 🛠️ 
 
    <img src="https://img.shields.io/badge/java-007396?style=round-square&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/spring-6DB33F?style=round-square&logo=spring&logoColor=white"> 
