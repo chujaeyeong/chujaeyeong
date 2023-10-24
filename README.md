@@ -1,54 +1,38 @@
-<div align="center">
+<div align="left">
 
-# Hi there 👋 Welcome to Jae Yeong's Github ! 😘
+### Hi there, I'm JAE YEONG CHU 😎
 
+<a href="mailto:chujy1224@gmail.com"><img src="https://img.shields.io/badge/chujy1224@gmail.com-EA4335?style=round-square&logo=gmail&logoColor=white"/></a>
+<a href="https://chuuuu1224.tistory.com/"><img src="https://img.shields.io/badge/My%20Tech%20Blog-242424?style=round-square&logo=githubsponsors&logoColor=white"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chujaeyeong)](https://hits.seeyoufarm.com) 
 
-<img src =https://github.com/chujaeyeong/chujaeyeong/assets/123634960/506a885b-efc5-454f-a8c3-0cd67a375ea8 width="610" height="400" />
+#
 
+#### 🔍 Timeline 
 
-## ✨ Back-end Tech Stack ✨
+   * 선문대학교 역사문화콘텐츠학과 졸업 (2015 ~ 2020, 문학사)
+   * 충남 아산시 소재 초중등 역사 교육 연구소 인턴 (2019, 초중등 역사 교육 기획 / 역사 학습 자료 기획 및 제작)
+   * 국내 광고 에이전시 (2020 ~ 2022, 공공기관, 컴퓨터 주변기기 브랜드 홍보 / 전략 수립 및 제안, C레벨 수명 업무 수행 / 경쟁 PT 참여)
+   * 멀티캠퍼스 백엔드 개발자 취업캠프 수료 (2023, Java, Spring Framework, RDB 활용 백엔드 개발 과정 학습)
 
-   
-   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+#
+
+#### 🛠️ Tech Stack 🛠️ 
+
+   <img src="https://img.shields.io/badge/java-007396?style=round-square&logo=java&logoColor=white"/>
+   <img src="https://img.shields.io/badge/spring-6DB33F?style=round-square&logo=spring&logoColor=white"> 
+   <img src="https://img.shields.io/badge/springboot-6DB33F?style=round-square&logo=springboot&logoColor=white">
+   <img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white"> 
+   <img src="https://img.shields.io/badge/oracle-F80000?style=round-square&logo=oracle&logoColor=white"> 
+   <img src="https://img.shields.io/badge/linux-FCC624?style=round-square&logo=linux&logoColor=black"> 
+
+#
 
 <br>
 
-<br>
-
-[![*'s githubstats](https://github-readme-stats.vercel.app/api?username=chujaeyeong&show_icons=true&theme=dracula)](https://github.com/chujaeyeong)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chujaeyeong&layout=compact&theme=dracula)](https://github.com/chujaeyeong/github-readme-stats)
-
-<br>
-
-
-<details>
-
-   <summary>💻 IT 교육 이수 목록 </summary>
-
-      - [선문대학교] IoT기반 가상현실 콘텐츠개발 입문 (2017.06 ~ 2017.07)
-         : Unity 엔진 활용 VR 콘텐츠 기획 및 개발 과정 학습  
-      - [멀티캠퍼스] 백엔드 개발자 취업캠프 (Java) 9회차 (2023.01 ~ 2023.06)
-         : Java, Spring Framework, RDB 활용 백엔드 개발 과정 학습
-
-
-</details>
-
-<details>
-   
-   <summary>🗣️ AE 직무 프로젝트 진행 목록 (경력 약 3년)</summary>
-
-      - 국회방송 온라인 홍보 실무 담당 (2020. 01 ~ 2020. 12)
-      - 한국동서발전 온라인 홍보 전략 AE (2020. 08 ~ 2020. 12)
-      - 공공분야 온·오프라인 홍보 대행 비딩 제안서 작성, 경쟁PT 다수 참여 (2021.01 ~ 2022.05)
-      - 운영 사업 전체 KPI 달성을 위한 전략 수립 (2022.01 ~ 2022.05)      
-      - Logitech SNS 홍보 실무 총괄 및 프로젝트 중간관리, 협업사 핸들링 (2022. 08 ~ 2022. 10) 
-   
-</details>
-
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chujaeyeong&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chujaeyeong&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
 </div>
-
